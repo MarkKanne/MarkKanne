@@ -1,0 +1,18 @@
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    margin: 6rem;
+    padding: 0;
+}
+hr {
+    border: solid 2px black;
+    border-radius: 2px;
+}
+.success {
+    color: green;
+    font-size: 14px;
+}
+.text {
+    font-size: 16px;
+    margin-top: 1px;
+}
